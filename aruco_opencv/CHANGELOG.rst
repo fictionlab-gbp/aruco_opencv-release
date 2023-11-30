@@ -2,6 +2,12 @@
 Changelog for package aruco_opencv
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+0.4.0 (2023-11-30)
+------------------
+* Support rectified images
+* Support different distortion models
+* Contributors: Błażej Sowa
+
 0.3.1 (2023-02-22)
 ------------------
 * Fix build for Debian Buster
