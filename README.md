@@ -1,3 +1,28 @@
+## aruco_opencv (noetic) - 0.4.1-1
+
+The packages in the `aruco_opencv` repository were released into the `noetic` distro by running `/usr/bin/bloom-release --rosdistro noetic aruco_opencv` on `Tue, 04 Jun 2024 16:02:45 -0000`
+
+These packages were released:
+- `aruco_opencv`
+- `aruco_opencv_msgs`
+
+Version of package(s) in repository `aruco_opencv`:
+
+- upstream repository: https://github.com/fictionlab/aruco_opencv.git
+- release repository: https://github.com/fictionlab-gbp/aruco_opencv-release.git
+- rosdistro version: `0.4.0-1`
+- old version: `0.4.0-1`
+- new version: `0.4.1-1`
+
+Versions of tools used:
+
+- bloom version: `0.12.0`
+- catkin_pkg version: `1.0.0`
+- rosdep version: `0.24.0`
+- rosdistro version: `0.9.1`
+- vcstools version: `0.1.42`
+
+
 ## aruco_opencv (noetic) - 0.4.0-1
 
 The packages in the `aruco_opencv` repository were released into the `noetic` distro by running `/usr/bin/bloom-release --rosdistro noetic aruco_opencv` on `Thu, 30 Nov 2023 12:26:29 -0000`
